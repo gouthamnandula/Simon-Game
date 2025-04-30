@@ -36,7 +36,9 @@ simon-game/ │ ├── index.html ├── styles.css ├── game.js
 
 ## 📸 Screenshot
 
-> _(Optional: add a screenshot of your game UI here)_
+![Game Ui](image.png),
+![To start the game](image-1.png),
+![if lost](image-2.png)
 
 ## 🧑‍💻 Author
 
