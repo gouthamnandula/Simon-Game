@@ -2,9 +2,6 @@
 
 This is a browser-based implementation of the classic **Simon Game**, where players must repeat an increasingly long sequence of colors and sounds. The game challenges memory and concentration using interactive UI and sound effects.
 
-## 🚀 Live Demo
-
-> You can try it [here](#) _(replace this with your GitHub Pages or live URL)_
 
 ## 🛠️ Tech Stack
 
